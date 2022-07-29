@@ -6,7 +6,7 @@
 ```
 conda create -n cs235 python=3.9
 ```
-![pic]("/pic/1.png")
+![pic](/pic/1.png)
 
 ### List all existing env
 ```
@@ -48,7 +48,7 @@ pip freeze > requirements.txt
 
 ```
 
-##GitHub
+## GitHub
 
-###Create GitHub account
+### Create GitHub account
 
