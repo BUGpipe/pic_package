@@ -54,7 +54,7 @@ pip freeze > requirements.txt
 
 ### Download COMPSCI235 Lab1 GuessingGame.zip file and open the project with PyCharm
 
-![pic](/pic/4.png)
+![pic](/pic/15.png)
 
 ### Add breakpoints and debug the code
 **The programme will reach directly to the line, where you set a breakpoint, but not execute this line of code.**
@@ -85,3 +85,12 @@ pip freeze > requirements.txt
 
 ![pic](/pic/12.png)
 ![pic](/pic/13.png)
+
+## Extension Activity
+
+### Extension1
+
+**Modify the user_guess by adding a while loop.**
+
+![pic](/pic/16.png)
+
