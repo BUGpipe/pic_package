@@ -6,7 +6,7 @@
 ```
 conda create -n cs235 python=3.9
 ```
-![pic](""/Users/liuchunhou/PycharmProjects/CS320ASS/ASS1/pic/Screen Shot 2022-07-29 at 01.41.45.png")
+![pic]("https://github.com/BUGpipe/pic_package/blob/c52096074eb23a2b525768ff111d6e42e56146cc/pic/1.png")
 
 ###List all existing env
 ```
